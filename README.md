@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=LiveisFpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveisFpv&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</p>
+
+### Languages & Frameworks I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,ts,vue,vite,postgres,docker,redis,rabbitmq&theme=dark&perline=15" />
+  </a>
+</p>
+
 <!--
 **LiveisFpv/LiveisFPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
