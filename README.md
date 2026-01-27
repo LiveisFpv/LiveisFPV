@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=LiveisFpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=LiveisFpv&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveisFpv&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 </p>
 
